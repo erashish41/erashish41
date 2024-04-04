@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **React Js**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Js**
 
-- 🤝 I’m looking for help with **new opportunity**
+- 🤝 I’m looking for **new opportunity**
 
 - 📫 How to reach me **erashish41@gmail.com**
 
