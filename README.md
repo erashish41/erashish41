@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **React Js**
 
-- 🤝 I’m looking for a **new opportunity**
-
 - 📫 How to reach me **erashish41@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
